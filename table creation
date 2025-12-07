@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>creation</title>
+</head>
+<body>
+    <h1><u><b>chart on iphone</b></u></h1>
+    <table border="1">
+        <tr>
+        <th>model</th>
+        <th>description</th>
+        <th>price</th>
+        <th>link</th>
+        <th>image</th>
+        </tr>
+        <tr>
+            <td>iphone 11</td>
+            <td>iphone 11 is the new model of iphone having advanve specificafion and camera quality is 10mp perform high tasking</td>
+            <td>100000</td>
+            <td><a href="https://www.bing.com/ck/a?!&&p=ea2ac8f15d3b750fce465d6f34e938af850dbbb910f892c0544e488c2abac227JmltdHM9MTc1NzU0ODgwMA&ptn=3&ver=2&hsh=4&fclid=22d41dea-c9dd-6bf5-395d-0bcac8af6aa4&psq=iphone+10+official+website&u=a1aHR0cHM6Ly93d3cuYXBwbGUuY29tL2luL3N0b3Jl">iphone 11</a></td>
+            <td><img src="data:image/webp;base64,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">iphone</td></tr>
+            <tr>
+            <td>iphone 11 pro</td>
+            <td>iphone 11 pro is the upgraded model of iphone having advanve specificafion and camera quality is 12mp perform high tasking</td>
+            <td>110000</td>
+            <td><a href="https://www.bing.com/ck/a?!&&p=ea2ac8f15d3b750fce465d6f34e938af850dbbb910f892c0544e488c2abac227JmltdHM9MTc1NzU0ODgwMA&ptn=3&ver=2&hsh=4&fclid=22d41dea-c9dd-6bf5-395d-0bcac8af6aa4&psq=iphone+10+official+website&u=a1aHR0cHM6Ly93d3cuYXBwbGUuY29tL2luL3N0b3Jl">iphone 11 pro</a></td>
+            <td><img src="https://th.bing.com/th/id/OIP.ubfYDyJ8HjTISnEvRF1b3QHaHa?w=202&h=202&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"></td>
+
+        </tr>
+        <tr>
+            <td>iphone12</td>
+            <td>iphone12 come with the new specifications where we can perform multitasking camera quality is enhance to 14mp</td>
+            <td>120000</td>
+            <td><a href="https://www.bing.com/ck/a?!&&p=ea2ac8f15d3b750fce465d6f34e938af850dbbb910f892c0544e488c2abac227JmltdHM9MTc1NzU0ODgwMA&ptn=3&ver=2&hsh=4&fclid=22d41dea-c9dd-6bf5-395d-0bcac8af6aa4&psq=iphone+10+official+website&u=a1aHR0cHM6Ly93d3cuYXBwbGUuY29tL2luL3N0b3Jl">iphone 12</a></td>
+            <td><img src="https://th.bing.com/th/id/OIP.Exke78N_AxDeNYc4qZ75EQHaKF?w=143&h=195&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"></td>
+            
+        </tr>
+        <tr>
+            <td>iphone12 pro</td>
+            <td>iphone12 pro is the upgraded version come with the new specifications where we can perform multitasking camera quality is enhance to 14mp</td>
+            <td>130000</td>
+            <td><a href="https://www.bing.com/ck/a?!&&p=ea2ac8f15d3b750fce465d6f34e938af850dbbb910f892c0544e488c2abac227JmltdHM9MTc1NzU0ODgwMA&ptn=3&ver=2&hsh=4&fclid=22d41dea-c9dd-6bf5-395d-0bcac8af6aa4&psq=iphone+10+official+website&u=a1aHR0cHM6Ly93d3cuYXBwbGUuY29tL2luL3N0b3Jl">iphone 12 pro</a></td>
+            <td><img src="https://th.bing.com/th/id/OIP.TlpXX70Bd2KgJIMByH9CpgHaHa?w=197&h=197&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"></td>
+        </tr>
+        <tr>
+             <td>iphone13</td>
+            <td>iphone13 come with the new specifications where we can perform multitasking camera quality is enhance to 16mp</td>
+            <td>140000</td>
+            <td><a href="https://www.bing.com/ck/a?!&&p=ea2ac8f15d3b750fce465d6f34e938af850dbbb910f892c0544e488c2abac227JmltdHM9MTc1NzU0ODgwMA&ptn=3&ver=2&hsh=4&fclid=22d41dea-c9dd-6bf5-395d-0bcac8af6aa4&psq=iphone+10+official+website&u=a1aHR0cHM6Ly93d3cuYXBwbGUuY29tL2luL3N0b3Jl">iphone 13</a></td></td>
+            <td><img src="https://th.bing.com/th/id/OIP.I-r7AoT23pwxCEBpS9OQoQHaKE?w=133&h=181&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"></td>
+        </tr>
+        <tr>
+            <td>iphone13 pro</td>
+            <td>iphone13 pro is the upgraaded version come with the new specifications where we can perform multitasking camera quality is enhance to 16mp</td>
+            <td>150000</td>
+            <td><a href="https://www.bing.com/ck/a?!&&p=ea2ac8f15d3b750fce465d6f34e938af850dbbb910f892c0544e488c2abac227JmltdHM9MTc1NzU0ODgwMA&ptn=3&ver=2&hsh=4&fclid=22d41dea-c9dd-6bf5-395d-0bcac8af6aa4&psq=iphone+10+official+website&u=a1aHR0cHM6Ly93d3cuYXBwbGUuY29tL2luL3N0b3Jl">iphone 13 pro</a></td></td></td>
+            <td><img src="https://th.bing.com/th/id/OIP.Nn11JQqBQ3A9o24ybh4AiAHaJc?w=147&h=188&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3"></td>
+        </tr>
+    </table>
+</body>
+</html>
