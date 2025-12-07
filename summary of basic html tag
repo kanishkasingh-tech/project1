@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   <h1>maine kya sikha</h1> 
+   <h2>maine kya sikha</h2>
+   <h3>maine kya sikha</h3>
+   <h4>maine kya sikha</h4>
+   <h5>maine kya sikha</h5>
+   <h6>maine kya sikha</h6>
+   <hr/>
+   <pre>coding is the bbes part of an engineer life that can help a engineer to build up their base and help us to ceate new things</pre>
+</br><p>i love coding because</p>
+<big>ye generate kro</big>
+<small>ye generate kro</small>
+<p>H<SUB>2</SUB>o</p>
+<p>A<SUP>a</SUP></p>
+<hr/>
+<b>i am smart</b>
+</br>
+<i>i am not smart</i>
+</br>
+<u>ab bhagwan jaane</u>
+<hr/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxXQ_HgBpGHWjoTYeceNWH7MiGfRb5FL9ytw&s.jpg" alt="notebook" width="50" length="100"/>
+</br>
+<a href="https://www.google.com/">GOOGLE</a>
+</br>
+<header>educational project</header>
+<main>
+    <section>education:btech core cse</section>
+    <section>degree:btech</section>
+    <section>eligibility:graduation</section>
+    <article>about myself</article>
+    <aside>this is an ad</aside>
+</main>
+<footer>contact us to know more</footer>
+
+
+<div style="
+  background-color: red;">
+    <p>eduation</p>
+    <p>namaste</p>
+</div>
+
+<span>
+    <p>namaste</p>
+    <p>hero</p>
+</span>
+<hr/>
+
+<ul>
+    <li type="square">apple</li>
+    <ul>
+        <li type="disc">color:red</li>
+    </ul>
+    <li type="SQUARE">mango</li>
+    <ul>
+        <li type="disc">color:yellow</li>
+    </ul>
+</ul>
+<hr/>
+
+<ol>
+    <li type="A">list 0f fruits</li>
+    <li type="B">list is proper</li>
+</ol>
+<hr/>
+
+
+<table>
+        <thead>
+        <caption>student data</caption>
+        <tr>
+            <th>name</th>
+            <th>roll number</th>
+        </tr>
+        </thead>
+        <tbody>
+            <tr>
+<td>ravi</td>
+<td>421</td>
+        </tr>
+        </tbody>
+   
+    
+</table>
+</body>
+</html>
